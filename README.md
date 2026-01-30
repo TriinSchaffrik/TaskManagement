@@ -8,8 +8,8 @@ Swift and SwiftUI.
 **Features:**
 - View a list of tasks
 - Add a new task
-- Edit an existing task
-- Delete a task
+- Edit an existing task (by taping on the task)
+- Delete a task (by swiping to left)
 
 Every task has title (required), description and can be marked as done.
 
